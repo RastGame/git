@@ -1,0 +1,24 @@
+{
+  "name": "gittttt",
+  "version": "1.0.0",
+  "description": "gittttt learn",
+  "keywords": [
+    "git",
+    "learn"
+  ],
+  "homepage": "https://github.com/RastGame/git#readme",
+  "bugs": {
+    "url": "https://github.com/RastGame/git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RastGame/git.git"
+  },
+  "license": "Apache-2.0",
+  "author": "RastGame",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
